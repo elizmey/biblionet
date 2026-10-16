@@ -1,0 +1,22 @@
+{
+  "name": "biblionet-api",
+  "version": "1.0.0",
+  "description": "API REST de Biblionet. Node.js, Express y PostgreSQL.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.16.0"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+backend/node_modules/
+backend/.env
+.env
+dist/
+app/.dart_tool/
+app/build/
+_caso_extract.txt

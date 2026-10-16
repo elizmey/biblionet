@@ -1,0 +1,10 @@
+{
+  "name": "biblionet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Biblionet: cliente Flutter (Windows, web y Android), API Node.js y PostgreSQL.",
+  "scripts": {
+    "start": "npm start --prefix backend",
+    "server": "npm start --prefix backend"
+  }
+}
